@@ -8,7 +8,7 @@ window.SITE = {
     telegramChannel: "https://t.me/ads_hds_announcements",   // announcements channel
     telegramChat:    "https://t.me/+Uv7EqQgKGnpjNTU1",      // group chat (invite link, e.g. https://t.me/+AbCdEf...)
     instagram:       "https://www.instagram.com/aaltodebate/",
-    email:           ""                              // optional, e.g. "board@aaltodebate.fi" — leave "" to hide
+    email:           "aaltodebatingsociety@gmail.com"  // leave "" to hide
   },
 
   meetings: {
